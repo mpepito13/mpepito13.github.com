@@ -21,4 +21,5 @@ fields:
   label: Gallerie
   description: Choisir des images
 pages:
+- _posts/postest.md
 - test.md
