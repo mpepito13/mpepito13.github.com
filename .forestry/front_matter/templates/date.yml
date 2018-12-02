@@ -16,3 +16,4 @@ fields:
   label: Favoris
   description: Mettez cet article en favoris
   default: false
+- type: blocks
