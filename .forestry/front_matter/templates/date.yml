@@ -1,0 +1,18 @@
+---
+label: Date
+hide_body: false
+is_partial: false
+fields:
+- type: datetime
+  name: date_de_l_article
+  label: Date de l’article
+  description: Inscrivez la date de l’article
+  config:
+    date_format: DD/MM/YYYY
+    time_format: h:mm
+    required: true
+- type: boolean
+  name: favoris
+  label: Favoris
+  description: Mettez cet article en favoris
+  default: false
