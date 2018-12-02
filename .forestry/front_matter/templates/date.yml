@@ -16,4 +16,7 @@ fields:
   label: Favoris
   description: Mettez cet article en favoris
   default: false
-- type: blocks
+- type: image_gallery
+  name: gallerie
+  label: Gallerie
+  description: Choisir des images
