@@ -2,4 +2,12 @@
 label: Template 2
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: number
+  name: nombre
+  label: Nombre
+  description: Des nombres
+  config:
+    min: '0'
+    max: '10'
+    step: '1'
