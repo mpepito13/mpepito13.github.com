@@ -20,3 +20,5 @@ fields:
   name: gallerie
   label: Gallerie
   description: Choisir des images
+pages:
+- test.md
